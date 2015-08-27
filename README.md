@@ -1,1 +1,3 @@
-# minor-league-data 
+# minor-league-data
+# THIS FILE IS FOR EDUCATIONAL USE ONLY
+# NOT INTENDED FOR USE TO SCRAPE AND WEBSITES
