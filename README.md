@@ -1,3 +1,3 @@
 # minor-league-data
-# THIS PROGRAM IS FOR EDUCATIONAL USE ONLY
-# NOT INTENDED FOR USE TO SCRAPE AND WEBSITES
+# Not intended for use to scrape any websites
+# This program is for educational use only
